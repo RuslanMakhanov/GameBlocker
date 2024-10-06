@@ -1,0 +1,16 @@
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\bin\Debug\net8.0-windows\GameBlocker.exe
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\bin\Debug\net8.0-windows\GameBlocker.deps.json
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\bin\Debug\net8.0-windows\GameBlocker.runtimeconfig.json
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\bin\Debug\net8.0-windows\GameBlocker.dll
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\bin\Debug\net8.0-windows\GameBlocker.pdb
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.Form1.resources
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.csproj.GenerateResource.cache
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.AssemblyInfo.cs
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.dll
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\refint\GameBlocker.dll
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.pdb
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\GameBlocker.genruntimeconfig.cache
+C:\Users\Ruslan\Desktop\c#\GameBlocker\GameBlocker\obj\Debug\net8.0-windows\ref\GameBlocker.dll
